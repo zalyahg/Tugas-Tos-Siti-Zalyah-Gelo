@@ -1,0 +1,24 @@
+body{
+	font-family: arial;
+}
+
+h2{
+	font-family: georgia;
+	font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+#header h2{
+	background-color: silver;
+}
+
+#footer{
+	background-color: black;
+	color: white;
+}
+
+.footer{
+	display: block;
+	text-align: center;
+}
